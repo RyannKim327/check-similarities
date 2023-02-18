@@ -1,0 +1,11 @@
+{
+  "name": "check-similarities",
+  "version": "0.0.1",
+  "description": "A simple sentence checker similarity thru percentage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
