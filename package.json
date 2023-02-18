@@ -6,6 +6,18 @@
   "scripts": {
     "test": "node index"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "RyannKim327",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyannKim327/check-similarities.git"
+  },
+  "keywords": [
+    "checkc-typos",
+    "sentence-string-similarities"
+  ],
+  "bugs": {
+    "url": "https://github.com/RyannKim327/check-similarities/issues"
+  },
+  "homepage": "https://github.com/RyannKim327/check-similarities#readme"
 }
