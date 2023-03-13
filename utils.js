@@ -33,8 +33,8 @@ class similarity{
 		}
 		return this.percentage
 	}
-	canExecute(requiredPercentage=75){
-		return requiredPercentage >= this.percentage
+	canExecute(requiredPercentage = 75){
+		return requiredPercentage <= this.percentage.percentage
 	}
 }
 
